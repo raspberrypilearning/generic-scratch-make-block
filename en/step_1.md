@@ -1,19 +1,37 @@
-## Introduction
+## Making a block
 
-Add project description here. What will learners be making?
++
 
-### What you will make
+![](images/more-blocks.png)
 
-Add something here to showcase here, for example:
++
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![](images/block-create.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
++
 
-### What you will learn
+![](images/block-define.png)
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
++
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+![](images/block-use.png)
+
++
+
+![](images/block-test.png)
+
++
+
+![](images/parameter-create.png)
+
++
+
+![](images/parameter-define.png)
+
++
+
+![](images/parameter-use.png)
+
++
+
+![](images/parameter-test.png)
