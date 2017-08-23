@@ -1,14 +1,14 @@
 ## Making a block
 
-+ Click on 'More Blocks' in the Scripts tab, then click on 'Make a Block'.
++ Click the **Scripts** tab, then on **More Blocks**, and then click **Make a Block**.
 
 ![More Blocks](images/more-blocks.png)
 
-+ Give your new block a name and then click 'OK'.
++ Give your new block a name and then click **OK**.
 
 ![Create a new block](images/block-create.png)
 
-+ You will then see a new 'define' block. Attach code to this block.
++ You will see a new 'define' block. Attach code to this block.
 
 ![Define a new block](images/block-define.png)
 
@@ -22,11 +22,11 @@
 
 #### Making a block with parameters
 
-+ You can also create blocks that have 'gaps' to add data. These 'gaps' are called 'parameters'. To add parameters, first click the type of data you want to add and then give your data a name.
++ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first click the type of data you want to add and then give your data a name.
 
 ![Create a new block with parameters](images/parameter-create.png)
 
-+ You can then define your new block as before, except that now you can also use the data provided by dragging the circular blocks to use them in your code.
++ You can then define your new block as before, except that now you can also use the data provided by dragging the blocks into your code.
 
 ![Define a new block with parameters](images/parameter-define.png)
 
