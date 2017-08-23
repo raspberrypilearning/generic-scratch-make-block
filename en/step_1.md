@@ -8,7 +8,7 @@
 
 ![Create a new block](images/block-create.png)
 
-+ You will see a new **define** block. Attach code to this block.
++ You will see a new `define` block. Attach code to this block.
 
 ![Define a new block](images/block-define.png)
 
@@ -16,7 +16,7 @@
 
 ![Use a new block](images/block-use.png)
 
-+ The code attached to your new **define** block is run whenever the block is used.
++ The code attached to your new `define` block is run whenever the block is used.
 
 ![Test a new block](images/block-test.png)
 
@@ -26,7 +26,7 @@
 
 ![Create a new block with parameters](images/parameter-create.png)
 
-+ You will see a new **define** block as usual, except that this one contains the data gap you added and which you gave a name.
++ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
 
 ![Define a new block with parameters](images/parameter-define.png)
 
@@ -34,6 +34,6 @@
 
 ![Use a new block with parameters](images/parameter-use.png)
 
-+ As usual, the code attached to your new **define** block is run whenever the block is used.
++ As usual, the code attached to your new `define` block is run whenever the block is used.
 
 ![Test a new block with parameters](images/parameter-test.png)
