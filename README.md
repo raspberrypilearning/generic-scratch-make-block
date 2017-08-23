@@ -1,3 +1,1 @@
-# generic-scratch-custom-block
-
-Don't forget to update the project name in LICENSE.md
+# Create a custom block in Scratch
