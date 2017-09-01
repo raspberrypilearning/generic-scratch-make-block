@@ -30,7 +30,7 @@
 
 ![Define a new block with parameters](images/parameter-define.png)
 
-+ You can then use your new block, filling ing data in the gap.
++ You can then use your new block, filling in data in the gap.
 
 ![Use a new block with parameters](images/parameter-use.png)
 
