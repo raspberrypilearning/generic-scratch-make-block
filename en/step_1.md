@@ -1,5 +1,3 @@
-## Making a block
-
 + Click the **Scripts** tab, then on **More Blocks**, and then click **Make a Block**.
 
 ![More Blocks](images/more-blocks.png)
