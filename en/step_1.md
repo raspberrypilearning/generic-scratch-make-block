@@ -1,6 +1,7 @@
+
 ## Making a block
 
-+ Go to the Scripts tab, then click on **More Blocks**, and then click **Make a Block**.
++ Click the **Scripts** tab, then on **More Blocks**, and then click **Make a Block**.
 
 ![More Blocks](images/more-blocks.png)
 
@@ -20,6 +21,7 @@
 
 ![Test a new block](images/block-test.png)
 
+
 #### Making a block with parameters
 
 + You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on **Options** to choose the type of data you want to add. Then give your data a name, and click **OK**.
@@ -37,3 +39,4 @@
 + As usual, the code attached to your new `define` block is run whenever the block is used.
 
 ![Test a new block with parameters](images/parameter-test.png)
+
